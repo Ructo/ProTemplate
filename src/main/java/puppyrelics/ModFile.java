@@ -98,7 +98,7 @@ public class ModFile implements
 
     public static boolean soundRelicEnabled = false;
     public static SoundMode soundRelicMode = SoundMode.SPECIFIC;
-    public static String soundRelicPick = ProAudio.squeak.name();
+    public static String soundRelicPick = ProAudio.kazoo.name();
     public static Settings.GameLanguage[] SupportedLanguages = {
             Settings.GameLanguage.ENG,
     };
